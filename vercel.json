@@ -1,1 +1,1 @@
-{"rewrites": [{"source": "/(.*)", "destination": "/index.html"}]}
+{"rewrites":[{"source":"/(.*)","destination":"/index.html"}],"scripts":{"prebuild":"chmod +x node_modules/.bin/vite || true","build":"vite build"}}
