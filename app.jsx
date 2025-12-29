@@ -653,7 +653,7 @@ function HospitalWebsite() {
             textAlign: 'center',
             color: '#94a3b8'
           }}>
-            <p>&copy; 2024 Dr. Rajnish Chaudhray Bacchon Ka Aspatal Private Limited. All rights reserved.</p>
+            <p>&copy; 2024 Dr. Rajnish Kilkari Bachchon Ka Aspataal Private Limited. All rights reserved.</p>
           </div>
         </div>
       </footer>
