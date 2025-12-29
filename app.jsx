@@ -185,7 +185,7 @@ function HospitalWebsite() {
                   overflow: 'hidden',
                   background: '#1e293b'
                 }}>
-                  { <img src="public\favicon.png" alt="Dr. Rajnish Chaudhary" style={{ width: '100%', height: '100%', objectFit: 'cover' }} /> }
+                  { <img src="/favicon.png" alt="Dr. Rajnish Chaudhary" style={{ width: '100%', height: '100%', objectFit: 'cover' }} /> }
                   <div style={{
                     width: '100%',
                     height: '100%',
