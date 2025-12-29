@@ -34,7 +34,7 @@ function HospitalWebsite() {
                 <h1 style={{ fontSize: '1.25rem', fontWeight: 'bold', color: '#06b6d4', margin: 0 }}>
                   Dr. Rajnish Chaudhary
                 </h1>
-                <p style={{ fontSize: '0.75rem', color: '#94a3b8', margin: 0 }}>Children's Hospital</p>
+                <p style={{ fontSize: '0.75rem', color: '#94a3b8', margin: 0 }}>Kilkari Bachchon Ka Aspataal </p>
               </div>
             </div>
             
@@ -122,7 +122,7 @@ function HospitalWebsite() {
                 </span>
               </h1>
               <p style={{ fontSize: '1.25rem', color: '#94a3b8', marginBottom: '1rem' }}>
-                Dr. Rajnish Chaudhray Bacchon Ka Aspatal Private Limited
+                Dr. Rajnish Kilkari Bachchon Ka Aspataal
               </p>
               <p style={{ color: '#94a3b8', marginBottom: '2rem', lineHeight: 1.6 }}>
                 Providing comprehensive pediatric healthcare with compassion, expertise, and state-of-the-art facilities in Sant Kabir Nagar, Uttar Pradesh.
