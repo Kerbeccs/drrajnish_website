@@ -526,7 +526,7 @@ function HospitalWebsite() {
               </h3>
               <div style={{ color: '#cbd5e1', lineHeight: 1.8 }}>
                 <p style={{ fontWeight: 600, color: '#06b6d4', marginBottom: '0.5rem' }}>
-                  Dr. Rajnish Chaudhray Bacchon Ka Aspatal Private Limited
+                  Dr. Rajnish Kilkari Bachchon Ka Aspataal Private Limited
                 </p>
                 <p>Floor No.: 00, Building No./Flat No.: 00</p>
                 <p>Road/Street: Sabrchak Road</p>
